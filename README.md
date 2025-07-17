@@ -1,5 +1,5 @@
 # Generalized Simplex Derivative Approximations
-*A research-driven toolkit for implementing and testing optimization methods across platforms.*
+*A research-driven toolkit for approximating (partial) derivatives.*
 
 
 
